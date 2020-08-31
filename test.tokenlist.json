@@ -10,9 +10,9 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ad0693bc3E0074c5c726a6b3bD6d8c250d9CAAf",
-      "symbol": "KKMC",
-      "name": "Kakamu Coin",
+      "address": "0x186F12a68937241451AFd96893b9AF23aCC2607A",
+      "symbol": "TCN",
+      "name": "Test Coin",
       "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [

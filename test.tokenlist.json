@@ -10,9 +10,9 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bB362cC9F2842a7DeEbC0d6694776Ad92779495",
-      "symbol": "TCN",
-      "name": "Test Coin",
+      "address": "0x3eef8D89Ba2bb6db76fcaD00afe12814Ff60f686",
+      "symbol": "TMCN",
+      "name": "TM Coin",
       "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
